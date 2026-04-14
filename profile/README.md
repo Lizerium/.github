@@ -1,72 +1,84 @@
 <h1 align="center">🌌 Lizerium 🌌</h1>
 
 <p align="center">
-  Инженерная экосистема игровых систем, данных, инструментов, серверов и runtime-архитектуры
+  An engineering ecosystem for game systems, data, tools, servers, and runtime architecture
 </p>
 
----
-
-## Что такое Lizerium
-
-**Lizerium** — это инженерная экосистема, внутри которой развиваются игровые данные, инструменты, серверные компоненты, runtime-системы и архитектурные слои, связанные между собой в единую управляемую структуру.
-
-Это не просто набор отдельных репозиториев и не просто игровая модификация.
-
-Lizerium строится как **разделённая система**, где каждая часть отвечает за свой слой: данные, форматы, инструменты, визуальные подсистемы, серверную инфраструктуру и контроль целостности.
-
----
-
-## Основные направления
-
-### 🎮 Игровые данные
-
-Игровые форматы, ресурсы, XML-отражения, текстовые представления и связанные слои данных.
-
-### 🚀 Unity направление
-
-Игровой runtime, ECS, визуальные подсистемы, эффекты, сборка и внутриигровые технические слои.
-
-### 🖥 Серверы и инфраструктура
-
-Серверные системы, backend-компоненты, сетевые подсистемы, лаунчеры и runtime-интеграции.
-
-### 🔌 Расширения и плагины
-
-Модульные расширения игрового, Unity и серверного поведения.
-
-### 🧰 Инструменты
-
-Утилиты, редакторы, библиотеки, обработчики данных и инженерные вспомогательные проекты.
-
-### 🧪 Фреймворки и контроль качества
-
-Системы валидации, проверки связей, тестирования и контроля целостности игровых и технических слоёв.
+<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
+  <strong>🌐 Language: </strong>
+  
+  <a href="./README.ru.md" style="color: #F5F752; margin: 0 10px;">
+    🇷🇺 Russian
+  </a>
+  | 
+  <span style="color: #0891b2; margin: 0 10px;">
+    ✅ 🇺🇸 English (current)
+  </span>
+</div>
 
 ---
 
-## С чего начать
+## What is Lizerium
 
-Если вы впервые попали в организацию, начните с центральной карты экосистемы:
+**Lizerium** is an engineering ecosystem where game data, tools, server components, runtime systems, and architectural layers evolve together as a unified, controlled structure.
 
-* [`Lizerium.Hub`](https://github.com/Lizerium/Lizerium.Hub)
+This is not just a collection of separate repositories, and not just a game modification.
 
-После этого можно перейти в интересующее направление:
-
-* [`Lizerium.Game.Structs`](https://github.com/Lizerium/Lizerium.Game.Structs)
-* [`Lizerium.Unity.Structs`](https://github.com/Lizerium/Lizerium.Unity.Structs)
-* [`Lizerium.Software.Structs`](https://github.com/Lizerium/Lizerium.Software.Structs)
-* [`Lizerium.Tools.Structs`](https://github.com/Lizerium/Lizerium.Tools.Structs)
-* [`Lizerium.Frameworks.Structs`](https://github.com/Lizerium/Lizerium.Frameworks.Structs)
+Lizerium is built as a **distributed system**, where each part is responsible for its own layer: data, formats, tools, visual subsystems, server infrastructure, and integrity control.
 
 ---
 
-## Почему это важно
+## Core Directions
 
-Lizerium создаётся как **инженерно организованная среда**, в которой развитие игровых систем идёт не хаотично, а через понятные слои, роли и взаимосвязи.
+### 🎮 Game Data
 
-Это позволяет:
+Game formats, resources, XML mappings, textual representations, and related data layers.
 
-* развивать сложные игровые и технические системы без потери структуры
-* изолировать ответственность между репозиториями
-* поддерживать масштабируемость и управляемость
-* постепенно собирать экосистему в единое инженерное пространство
+### 🚀 Unity Direction
+
+Game runtime, ECS, visual subsystems, effects, build pipelines, and in-game technical layers.
+
+### 🖥 Servers & Infrastructure
+
+Server systems, backend components, network subsystems, launchers, and runtime integrations.
+
+### 🔌 Extensions & Plugins
+
+Modular extensions for game, Unity, and server-side behavior.
+
+### 🧰 Tools
+
+Utilities, editors, libraries, data processors, and engineering support projects.
+
+### 🧪 Frameworks & Quality Control
+
+Validation systems, dependency checks, testing pipelines, and integrity control for both game and technical layers.
+
+---
+
+## Getting Started
+
+If you're new to the organization, begin with the central ecosystem map:
+
+- [`Lizerium.Hub`](https://github.com/Lizerium/Lizerium.Hub)
+
+Then you can move into specific directions:
+
+- [`Lizerium.Game.Structs`](https://github.com/Lizerium/Lizerium.Game.Structs)
+- [`Lizerium.Unity.Structs`](https://github.com/Lizerium/Lizerium.Unity.Structs)
+- [`Lizerium.Software.Structs`](https://github.com/Lizerium/Lizerium.Software.Structs)
+- [`Lizerium.Tools.Structs`](https://github.com/Lizerium/Lizerium.Tools.Structs)
+- [`Lizerium.Frameworks.Structs`](https://github.com/Lizerium/Lizerium.Frameworks.Structs)
+
+---
+
+## Why It Matters
+
+Lizerium is designed as an **engineering-driven environment**, where the evolution of game systems is not chaotic, but structured through clear layers, roles, and relationships.
+
+This allows you to:
+
+- build complex game and technical systems without losing structure
+- isolate responsibilities across repositories
+- maintain scalability and control
+- gradually assemble the ecosystem into a unified engineering space
