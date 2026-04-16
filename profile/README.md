@@ -74,26 +74,29 @@ The goal is not just modding, but building a structured and controlled environme
 
 ### Modified / extended projects
 
-- [LizeriumFLHook](https://github.com/Lizerium/LizeriumFLHook)  
-  Contributors: [`Aingar`](https://github.com/Aingar), [`dsyalex`](https://github.com/dsyalex), [`araxestroy`](https://github.com/araxestroy), [`dd84ai`](https://github.com/dd84ai), [`zibbizor`](https://github.com/zibbizor), [`dsydalziel`](https://github.com/dsydalziel), [`lnvoker`](https://github.com/lnvoker), [`Lazrius`](https://github.com/Lazrius), [`danswann`](https://github.com/danswann), [`VibrantClouds`](https://github.com/VibrantClouds), [`PhoenixxClaw`](https://github.com/PhoenixxClaw), [`ItsRaisu`](https://github.com/ItsRaisu), [`JohnWildkins`](https://github.com/JohnWildkins), [`oliverpechey`](https://github.com/oliverpechey)
+- [LizeriumFLHook](https://github.com/Lizerium/LizeriumFLHook)
+  - Contributors: [`Aingar`](https://github.com/Aingar), [`dsyalex`](https://github.com/dsyalex), [`araxestroy`](https://github.com/araxestroy), [`dd84ai`](https://github.com/dd84ai), [`zibbizor`](https://github.com/zibbizor), [`dsydalziel`](https://github.com/dsydalziel), [`lnvoker`](https://github.com/lnvoker), [`Lazrius`](https://github.com/Lazrius), [`danswann`](https://github.com/danswann), [`VibrantClouds`](https://github.com/VibrantClouds), [`PhoenixxClaw`](https://github.com/PhoenixxClaw), [`ItsRaisu`](https://github.com/ItsRaisu), [`JohnWildkins`](https://github.com/JohnWildkins), [`oliverpechey`](https://github.com/oliverpechey)
 
-- [KnowledgeBase](https://github.com/Lizerium/KnowledgeBase)  
-  Contributors: [`IrateRedKite`](https://github.com/IrateRedKite), [`erikroe`](https://github.com/erikroe), [`goldsear`](https://github.com/goldsear), [`Lazrius`](https://github.com/Lazrius), [`BC46`](https://github.com/BC46), [`Drakohen`](https://github.com/Drakohen), [`treewyrm`](https://github.com/treewyrm), [`Aingar`](https://github.com/Aingar), [`FireFlyEx`](https://github.com/FireFlyEx), [`Caenen`](https://github.com/Caenen), [`HeIIoween`](https://github.com/HeIIoween), [`Gisteron`](https://github.com/Gisteron), [`EngiN33R`](https://github.com/EngiN33R), [`JohnWildkins`](https://github.com/JohnWildkins), [`oliverpechey`](https://github.com/oliverpechey), [`dd84ai`](https://github.com/dd84ai)
+- [KnowledgeBase](https://github.com/Lizerium/KnowledgeBase)
+  - Contributors: [`IrateRedKite`](https://github.com/IrateRedKite), [`erikroe`](https://github.com/erikroe), [`goldsear`](https://github.com/goldsear), [`Lazrius`](https://github.com/Lazrius), [`BC46`](https://github.com/BC46), [`Drakohen`](https://github.com/Drakohen), [`treewyrm`](https://github.com/treewyrm), [`Aingar`](https://github.com/Aingar), [`FireFlyEx`](https://github.com/FireFlyEx), [`Caenen`](https://github.com/Caenen), [`HeIIoween`](https://github.com/HeIIoween), [`Gisteron`](https://github.com/Gisteron), [`EngiN33R`](https://github.com/EngiN33R), [`JohnWildkins`](https://github.com/JohnWildkins), [`oliverpechey`](https://github.com/oliverpechey), [`dd84ai`](https://github.com/dd84ai)
 
-- [LizeriumDataToolkit](https://github.com/Lizerium/LizeriumDataToolkit)  
-  Contributors: [`CallumDev`](https://github.com/CallumDev), [`Lazrius`](https://github.com/Lazrius), [`smegulater`](https://github.com/smegulater), [`josbyte`](https://github.com/josbyte), [`mcgoober`](https://github.com/mcgoober), [`IrateRedKite`](https://github.com/IrateRedKite), [`bjstarosta`](https://github.com/bjstarosta), [`gp-alex`](https://github.com/gp-alex), [`JimJamJamie`](https://github.com/JimJamJamie), [`BC46`](https://github.com/BC46), [`Gnamra`](https://github.com/Gnamra), [`mrmbernardi`](https://github.com/mrmbernardi), [`HaydnTrigg`](https://github.com/HaydnTrigg), [`ananace`](https://github.com/ananace)
+- [LizeriumDataToolkit](https://github.com/Lizerium/LizeriumDataToolkit)
+  - Contributors: [`CallumDev`](https://github.com/CallumDev), [`Lazrius`](https://github.com/Lazrius), [`smegulater`](https://github.com/smegulater), [`josbyte`](https://github.com/josbyte), [`mcgoober`](https://github.com/mcgoober), [`IrateRedKite`](https://github.com/IrateRedKite), [`bjstarosta`](https://github.com/bjstarosta), [`gp-alex`](https://github.com/gp-alex), [`JimJamJamie`](https://github.com/JimJamJamie), [`BC46`](https://github.com/BC46), [`Gnamra`](https://github.com/Gnamra), [`mrmbernardi`](https://github.com/mrmbernardi), [`HaydnTrigg`](https://github.com/HaydnTrigg), [`ananace`](https://github.com/ananace)
 
-- [LizeriumUTFtoXML](https://github.com/Lizerium/LizeriumUTFtoXML)  
-  Based on work by [`Jason Hood (adoxa)`](https://adoxa.altervista.org/freelancer/index.html)
+- [LizeriumUTFtoXML](https://github.com/Lizerium/LizeriumUTFtoXML)
+  - Based on work by [`Jason Hood (adoxa)`](https://adoxa.altervista.org/freelancer/index.html)
 
-- [LizeriumXMLtoUTF](https://github.com/Lizerium/LizeriumXMLtoUTF)  
-  Based on work by [`Jason Hood (adoxa)`](https://adoxa.altervista.org/freelancer/index.html)
+- [LizeriumXMLtoUTF](https://github.com/Lizerium/LizeriumXMLtoUTF)
+  - Based on work by [`Jason Hood (adoxa)`](https://adoxa.altervista.org/freelancer/index.html)
 
-- [Lizerium.FLAdmin](https://github.com/Lizerium/Lizerium.FLAdmin)  
-  Contributors: [`MrNen`](https://github.com/MrNen), [`Lazrius`](https://github.com/Lazrius), [`Shiniri`](https://github.com/Shiniri), [`Mbogdan95`](https://github.com/Mbogdan95)
+- [Lizerium.FLAdmin](https://github.com/Lizerium/Lizerium.FLAdmin)
+  - Contributors: [`MrNen`](https://github.com/MrNen), [`Lazrius`](https://github.com/Lazrius), [`Shiniri`](https://github.com/Shiniri), [`Mbogdan95`](https://github.com/Mbogdan95)
 
-- [LizeriumAccauntManager](https://github.com/Lizerium/LizeriumAccauntManager/tree/main)  
-  Contributors: `Haenlomal`, `sherlog@t-online.de`
+- [LizeriumAccauntManager](https://github.com/Lizerium/LizeriumAccauntManager/tree/main)
+  - Contributors: `Haenlomal`, `sherlog@t-online.de`
+
+- [Lizerium.UTF.Editor](https://github.com/Lizerium/Lizerium.UTF.Editor)
+  - Contributors: [`Adoxa`](https://adoxa.altervista.org/freelancer/index.html), [`Cannon`](https://github.com/Cannon), [`FriendlyFire`](https://github.com/Friendly0Fire), [`w0dk4`](https://github.com/w0dk4), `Mario "HCl" Brito`, `Colin Sanby`, `Anton`, `LancerSolurus`, `Martin Baker`
 
 ---
 

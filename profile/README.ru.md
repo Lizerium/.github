@@ -88,6 +88,8 @@
   - Соавторы: [`MrNen`](https://github.com/MrNen), [`Lazrius`](https://github.com/Lazrius), [`Shiniri`](https://github.com/Shiniri), [`Mbogdan95`](https://github.com/Mbogdan95)
 - [LizeriumAccauntManager](https://github.com/Lizerium/LizeriumAccauntManager/tree/main)
   - Соавторы: `Haenlomal`, `sherlog@t-online.de`
+- [Lizerium.UTF.Editor](https://github.com/Lizerium/Lizerium.UTF.Editor)
+  - Соавторы: [`Adoxa`](https://adoxa.altervista.org/freelancer/index.html), [`Cannon`](https://github.com/Cannon), [`FriendlyFire`](https://github.com/Friendly0Fire), [`w0dk4`](https://github.com/w0dk4), `Mario "HCl" Brito`, `Colin Sanby`, `Anton`, `LancerSolurus`, `Martin Baker`
 
 ---
 
