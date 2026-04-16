@@ -84,7 +84,7 @@
   - Соавторы: [`adoxa` | `Jason Hood`](https://adoxa.altervista.org/freelancer/index.html)
 - [LizeriumXMLtoUTF](https://github.com/Lizerium/LizeriumXMLtoUTF)
   - Соавторы: [`adoxa` | `Jason Hood`](https://adoxa.altervista.org/freelancer/index.html)
-- [Lizerium.FLAdmin](https://github.com/TheStarport/FLAdmin)
+- [Lizerium.FLAdmin](https://github.com/Lizerium/Lizerium.FLAdmin)
   - Соавторы: [`MrNen`](https://github.com/MrNen), [`Lazrius`](https://github.com/Lazrius), [`Shiniri`](https://github.com/Shiniri), [`Mbogdan95`](https://github.com/Mbogdan95)
 - [LizeriumAccauntManager](https://github.com/Lizerium/LizeriumAccauntManager/tree/main)
   - Соавторы: `Haenlomal`, `sherlog@t-online.de`
