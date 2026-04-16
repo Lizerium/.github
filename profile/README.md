@@ -10,7 +10,7 @@
 <div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
   <strong>🌐 Language: </strong>
   
-  <a href="./README_RU.md" style="color: #0891b2; margin: 0 10px;">
+  <a href="./README.ru.md" style="color: #0891b2; margin: 0 10px;">
     🇷🇺 Russian
   </a>
   | 
