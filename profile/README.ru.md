@@ -52,7 +52,7 @@
 > [!TIP]  
 > Начните с центрального репозитория:
 >
-> - `Lizerium.Hub` — карта экосистемы и навигация по проектам
+> - [`Lizerium.Hub`](https://github.com/Lizerium/Lizerium.Hub) — карта экосистемы и навигация по проектам
 
 ---
 
@@ -60,35 +60,37 @@
 
 ### Core (разработано мной)
 
-- [LizeriumSteam](https://github.com/Lizerium/LizeriumSteam)
-- [LizeriumServer](https://github.com/Lizerium/LizeriumServer)
-- [LizeriumFindChanges](https://github.com/Lizerium/LizeriumFindChanges)
-- [Lizerium.DataValidation.Framework](https://github.com/Lizerium/Lizerium.DataValidation.Framework)
-- [FreelancerAdminAudit](https://github.com/Lizerium/FreelancerAdminAudit)
-- [FLResourceLibrary](https://github.com/Lizerium/FLResourceLibrary)
-- [FLGameCompanion](https://github.com/Lizerium/FLGameCompanion)
-- [CompilerInfocardsUI](https://github.com/Lizerium/CompilerInfocardsUI)
-- [LizeriumVSCodeColorPicker ](https://github.com/Lizerium/LizeriumVSCodeColorPicker)
+- [`LizeriumSteam`](https://github.com/Lizerium/LizeriumSteam)
+- [`LizeriumServer`](https://github.com/Lizerium/LizeriumServer)
+- [`LizeriumFindChanges`](https://github.com/Lizerium/LizeriumFindChanges)
+- [`Lizerium.DataValidation.Framework`](https://github.com/Lizerium/Lizerium.DataValidation.Framework)
+- [`FreelancerAdminAudit`](https://github.com/Lizerium/FreelancerAdminAudit)
+- [`FLResourceLibrary`](https://github.com/Lizerium/FLResourceLibrary)
+- [`FLGameCompanion`](https://github.com/Lizerium/FLGameCompanion)
+- [`CompilerInfocardsUI`](https://github.com/Lizerium/CompilerInfocardsUI)
+- [`LizeriumVSCodeColorPicker` ](https://github.com/Lizerium/LizeriumVSCodeColorPicker)
 
 ---
 
 ### Переработанные проекты
 
-- [LizeriumFLHook](https://github.com/Lizerium/LizeriumFLHook)
+- [`LizeriumFLHook`](https://github.com/Lizerium/LizeriumFLHook)
   - Соавторы: [`Aingar`](https://github.com/Aingar), [`dsyalex`](https://github.com/dsyalex), [`araxestroy`](https://github.com/araxestroy), [`dd84ai`](https://github.com/dd84ai), [`zibbizor`](https://github.com/zibbizor), [`dsydalziel`](https://github.com/dsydalziel), [`lnvoker`](https://github.com/lnvoker), [`Lazrius`](https://github.com/Lazrius), [`danswann`](https://github.com/danswann), [`VibrantClouds`](https://github.com/VibrantClouds), [`PhoenixxClaw`](https://github.com/PhoenixxClaw), [`ItsRaisu`](https://github.com/ItsRaisu), [`JohnWildkins`](https://github.com/JohnWildkins), [`oliverpechey`](https://github.com/oliverpechey)
-- [KnowledgeBase](https://github.com/Lizerium/KnowledgeBase)
+- [`KnowledgeBase`](https://github.com/Lizerium/KnowledgeBase)
   - Соавторы: [`IrateRedKite`](https://github.com/IrateRedKite), [`erikroe`](https://github.com/erikroe), [`goldsear`](https://github.com/goldsear), [`Lazrius`](https://github.com/Lazrius), [`BC46`](https://github.com/BC46), [`Drakohen`](https://github.com/Drakohen), [`treewyrm`](https://github.com/treewyrm), [`Aingar`](https://github.com/Aingar), [`FireFlyEx`](https://github.com/FireFlyEx), [`Caenen`](https://github.com/Caenen), [`HeIIoween`](https://github.com/HeIIoween), [`Gisteron`](https://github.com/Gisteron), [`EngiN33R`](https://github.com/EngiN33R), [`JohnWildkins`](https://github.com/JohnWildkins), [`oliverpechey`](https://github.com/oliverpechey), [`dd84ai`](https://github.com/dd84ai)
-- [LizeriumDataToolkit](https://github.com/Lizerium/LizeriumDataToolkit)
+- [`LizeriumDataToolkit`](https://github.com/Lizerium/LizeriumDataToolkit)
   - Соавторы: [`CallumDev`](https://github.com/CallumDev), [`Lazrius`](https://github.com/Lazrius), [`smegulater`](https://github.com/smegulater), [`josbyte`](https://github.com/josbyte),[`mcgoober`](https://github.com/mcgoober), [`IrateRedKite`](https://github.com/IrateRedKite), [`bjstarosta`](https://github.com/bjstarosta),[`gp-alex`](https://github.com/gp-alex), [`JimJamJamie`](https://github.com/JimJamJamie), [`BC46`](https://github.com/BC46), [`Gnamra`](https://github.com/Gnamra), [`mrmbernardi`](https://github.com/mrmbernardi), [`HaydnTrigg`](https://github.com/HaydnTrigg), [`ananace`](https://github.com/ananace)
-- [LizeriumUTFtoXML](https://github.com/Lizerium/LizeriumUTFtoXML)
+- [`LizeriumUTFtoXML`](https://github.com/Lizerium/LizeriumUTFtoXML)
   - Соавторы: [`adoxa` | `Jason Hood`](https://adoxa.altervista.org/freelancer/index.html)
-- [LizeriumXMLtoUTF](https://github.com/Lizerium/LizeriumXMLtoUTF)
+- [`LizeriumXMLtoUTF`](https://github.com/Lizerium/LizeriumXMLtoUTF)
   - Соавторы: [`adoxa` | `Jason Hood`](https://adoxa.altervista.org/freelancer/index.html)
-- [Lizerium.FLAdmin](https://github.com/Lizerium/Lizerium.FLAdmin)
+- [`Lizerium.RDL.Converter`](https://github.com/Lizerium/Lizerium.RDL.Converter)
+  - Создание улучшенной C# версии на основе Си от [`Jason Hood (adoxa)`](https://adoxa.altervista.org/freelancer/index.html)
+- [`Lizerium.FLAdmin`](https://github.com/Lizerium/Lizerium.FLAdmin)
   - Соавторы: [`MrNen`](https://github.com/MrNen), [`Lazrius`](https://github.com/Lazrius), [`Shiniri`](https://github.com/Shiniri), [`Mbogdan95`](https://github.com/Mbogdan95)
-- [LizeriumAccauntManager](https://github.com/Lizerium/LizeriumAccauntManager/tree/main)
+- [`LizeriumAccauntManager`](https://github.com/Lizerium/LizeriumAccauntManager/tree/main)
   - Соавторы: `Haenlomal`, `sherlog@t-online.de`
-- [Lizerium.UTF.Editor](https://github.com/Lizerium/Lizerium.UTF.Editor)
+- [`Lizerium.UTF.Editor`](https://github.com/Lizerium/Lizerium.UTF.Editor)
   - Соавторы: [`Adoxa`](https://adoxa.altervista.org/freelancer/index.html), [`Cannon`](https://github.com/Cannon), [`FriendlyFire`](https://github.com/Friendly0Fire), [`w0dk4`](https://github.com/w0dk4), `Mario "HCl" Brito`, `Colin Sanby`, `Anton`, `LancerSolurus`, `Martin Baker`
 
 ---
