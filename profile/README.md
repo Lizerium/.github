@@ -62,6 +62,7 @@ The goal is not just modding, but building a structured and controlled environme
 
 - [`LizeriumSteam`](https://github.com/Lizerium/LizeriumSteam)
 - [`LizeriumServer`](https://github.com/Lizerium/LizeriumServer)
+- [`Lizerium.Restarter.Server`](https://github.com/Lizerium/Lizerium.Restarter.Server)
 - [`LizeriumFindChanges`](https://github.com/Lizerium/LizeriumFindChanges)
 - [`Lizerium.DataValidation.Framework`](https://github.com/Lizerium/Lizerium.DataValidation.Framework)
 - [`FreelancerAdminAudit`](https://github.com/Lizerium/FreelancerAdminAudit)
