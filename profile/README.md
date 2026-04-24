@@ -70,6 +70,7 @@ The goal is not just modding, but building a structured and controlled environme
 - [`FLGameCompanion`](https://github.com/Lizerium/FLGameCompanion)
 - [`CompilerInfocardsUI`](https://github.com/Lizerium/CompilerInfocardsUI)
 - [`LizeriumVSCodeColorPicker`](https://github.com/Lizerium/LizeriumVSCodeColorPicker)
+- [`Lizerium.BINI.Converter`](https://github.com/Lizerium/Lizerium.BINI.Converter)
 
 ---
 

@@ -70,6 +70,7 @@
 - [`FLGameCompanion`](https://github.com/Lizerium/FLGameCompanion)
 - [`CompilerInfocardsUI`](https://github.com/Lizerium/CompilerInfocardsUI)
 - [`LizeriumVSCodeColorPicker` ](https://github.com/Lizerium/LizeriumVSCodeColorPicker)
+- [`Lizerium.BINI.Converter`](https://github.com/Lizerium/Lizerium.BINI.Converter)
 
 ---
 
