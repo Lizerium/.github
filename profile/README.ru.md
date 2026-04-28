@@ -71,6 +71,7 @@
 - [`CompilerInfocardsUI`](https://github.com/Lizerium/CompilerInfocardsUI)
 - [`LizeriumVSCodeColorPicker` ](https://github.com/Lizerium/LizeriumVSCodeColorPicker)
 - [`Lizerium.BINI.Converter`](https://github.com/Lizerium/Lizerium.BINI.Converter)
+- [`Lizerium.Localization.Toolkit`](https://github.com/Lizerium/Lizerium.Localization.Toolkit)
 
 ---
 
