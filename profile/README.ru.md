@@ -95,6 +95,8 @@
   - Соавторы: `Haenlomal`, `sherlog@t-online.de`
 - [`Lizerium.UTF.Editor`](https://github.com/Lizerium/Lizerium.UTF.Editor)
   - Соавторы: [`Adoxa`](https://adoxa.altervista.org/freelancer/index.html), [`Cannon`](https://github.com/Cannon), [`FriendlyFire`](https://github.com/Friendly0Fire), [`w0dk4`](https://github.com/w0dk4), `Mario "HCl" Brito`, `Colin Sanby`, `Anton`, `LancerSolurus`, `Martin Baker`
+- [`Lizerium.FLModStudio`](https://github.com/Lizerium/Lizerium.FLModStudio)
+  - Соавторы: [stfx](https://github.com/DomGries) - 2009-2013, [Freelancer Aftermath](https://github.com/AftermathFreelancer) - 2019-2020, [Lazrius](https://github.com/Lazrius) - 2020
 
 ---
 
